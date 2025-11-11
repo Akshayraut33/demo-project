@@ -10,7 +10,7 @@ public class TestController {
 
     @GetMapping("/")
     public ResponseEntity<String> testApi(){
-        return ResponseEntity.status(200).body("working");
+        return ResponseEntity.status(200).body("working all correctly");
     }
 
     @GetMapping("data")
