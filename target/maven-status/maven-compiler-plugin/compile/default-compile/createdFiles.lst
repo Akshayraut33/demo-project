@@ -1,0 +1,12 @@
+com\splitsmart\splitwise\controller\ExpenseController.class
+com\splitsmart\splitwise\dto\UserDTO.class
+com\splitsmart\splitwise\repository\UserRepository.class
+com\splitsmart\splitwise\repository\ExpenseRepository.class
+com\splitsmart\splitwise\dto\ExpenseDTO.class
+com\splitsmart\splitwise\SplitwiseApplication.class
+com\splitsmart\splitwise\controller\UserController.class
+com\splitsmart\splitwise\model\User.class
+com\splitsmart\splitwise\model\Expense.class
+com\splitsmart\splitwise\controller\TestController.class
+com\splitsmart\splitwise\service\UserService.class
+com\splitsmart\splitwise\service\ExpenseService.class
